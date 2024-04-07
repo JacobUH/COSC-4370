@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Axiforma&weight=700&pause=1000&color=F7F7F7&background=0000001F&center=true&vCenter=true&random=false&width=550&height=100&lines=COSC+4370%3A+Interactive+Computer+Graphics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Axiforma&weight=700&size=40&pause=1000&color=F7F7F7&background=0000001F&center=true&vCenter=true&random=false&width=900&height=100&lines=COSC+4370%3A+Interactive+Computer+Graphics)](https://git.io/typing-svg)
 
 Welcome to the COSC 4370: Interactive Computer Graphics Class Repository!
 
